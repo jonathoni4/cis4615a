@@ -1,8 +1,10 @@
-
+//Jonathon Irigoyen
+// Generate Strong random numbers
+// https://wiki.sei.cmu.edu/confluence/display/java/MSC02-J.+Generate+strong+random+numbers
 import java.util.Random;
 
 
-public class R49_MSC04_J {
+public class R49_MSC02_J {
 
 
 
